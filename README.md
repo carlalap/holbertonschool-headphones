@@ -9,7 +9,7 @@ You will use all HTML/CSS/Accessibility/Responsive design knowledges that you le
 
 <p>Here the final result:</p>
 
-<img src="../images/final_design.jpg" alt="final design" loading='lazy' style="" /></p>
+<img src="images/final_design.jpg" alt="final design" loading='lazy' style="" /></p>
 
 <p>This webpage has been designed by Nicolas Philippot, UI/UX designer.
 You can find final screens <a href="https://intranet-projects-files.s3.amazonaws.com/holbertonschool-webstack/622/Archive.zip" title="here" target="_blank">here</a></p>
