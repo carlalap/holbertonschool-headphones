@@ -224,7 +224,7 @@ header {
     margin-left: 2.5rem;
   }
 
-  .hero-infos {
+  .hero-content {
     padding: 40rem 5rem 12rem 5rem;
   }
 }
@@ -272,7 +272,7 @@ header {
     width: 2.25rem;
   }
 
-  .hero-infos {
+  .hero-content {
     padding: 32rem 4rem 8rem 4rem;
   }
 
@@ -303,7 +303,7 @@ header {
     display: block;
   }
 
-  input#small-icon-btn:checked ~ .hero-infos {
+  input#small-icon-btn:checked ~ .hero-content {
     padding-top: 40rem;
   }
 
