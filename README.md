@@ -165,21 +165,14 @@ Inside you will find demo page of how to use it.</p>
       5. Footer
     </h3>
 
-    <div>
-        <span class="label label-info">
-          mandatory
-        </span>
-    </div>
-
   </div>
 
   <div class="panel-body">
     <span id="user_id" data-id="6138"></span>
 
-    <!-- Progress vs Score -->
-
-    <!-- Task Body -->
-    <p>Copy files from the previous task.</p>
+  <!-- Progress vs Score -->
+  <!-- Task Body -->
+  <p>Copy files from the previous task.</p>
 
 <p>Last piece of the page&hellip; the Footer!</p>
 
