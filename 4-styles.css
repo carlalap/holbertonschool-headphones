@@ -56,6 +56,18 @@
   .holberton_school-icon-ic_hearing:before {
     content: "\e909";
   }
+
+  .holberton_school-icon-ic_facebook:before {
+    content: "\e908";
+  }
+  
+  .holberton_school-icon-ic_twitter:before {
+    content: "\e90f";
+  }
+  
+  .holberton_school-icon-ic_instagram:before {
+    content: "\e90a";
+  }
   
   /* CSS VARIABLES */
   
@@ -102,7 +114,7 @@
   *,
   *::before,
   *::after {
-    box-sizing: border-box
+    box-sizing: border-box;
     font-family: var(--font-family);
     line-height: 3.2rem;
   }
@@ -502,7 +514,7 @@
     }
   }
   
-   /* CONTACT US */
+   /* CONTACT US SECTION */
 
   .form-box {
     width: 335px;
@@ -526,7 +538,7 @@
   form input {
     display: block;
     border: none;
-    border-bottom: 2px solid 
+    border-bottom: 2px solid black;
     opacity: 0.8;
     background: #FFFFFF;
     max-width: 100%;
@@ -536,7 +548,8 @@
   }
 
   .input-container {
-    padding-right: 15rem;
+    /*padding-right: 15rem;*/
+    padding-right: 0rem;
     padding-top: 5rem;
     margin:0px 80px 0px;
   }
@@ -546,3 +559,82 @@
       width: 90%;
       max-width: 90%;
     }
+  }
+
+/* FOOTER SECTION */
+
+footer {
+  background-color: var(--back-color);
+  height: 240px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-info{
+  padding: 2rem 3rem;
+  display: flex;
+  width: 100%;
+  max-width: 110rem;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.social-icons-box {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.social-icons-box span {
+  margin-left: 1rem;
+  color: #FFFFFF;
+}
+
+.nav-icons ul {
+  display: flex;
+  flex-direction: row;
+}
+
+.custom-color {
+  color: #FF0000; /* Set your desired color here, e.g., red */
+}
+
+.footer-info [class^="holberton_school-icon-"],
+.footer-info [class*=" holberton_school-icon-"] {
+  font-size: 5rem;
+  color: var(--white-color);
+}
+
+.copyrights {
+  font-size: var(--medium-text-font-size);
+  color: white;
+  opacity: 0.35;
+}
+
+
+@media screen and (max-width: 480px) {
+  footer .footer-logo {
+    width: 17rem;
+  }
+
+  .footer-info {
+    flex-direction: column;
+    padding-bottom: 0;
+  }
+
+  .nav ul li {
+    margin: 1rem;
+  }
+
+  .footer-info [class^="holberton_school-icon-"],
+  .footer-info [class*=" holberton_school-icon-"] {
+    font-size: 3rem;
+  }
+
+  .social-icons-box span {
+    margin: 0;
+  }
+}
