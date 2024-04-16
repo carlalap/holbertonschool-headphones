@@ -3,7 +3,8 @@
 <h3>Description</h3>
 
 <p>In this project, you will implement from scratch, without any library, a web page. 
-You will use all HTML/CSS/Accessibility/Responsive design knowledges that you learned previously. </p>
+You will use all <strong>HTML/CSS/Accessibility/Responsive design</strong>
+ knowledges that you learned previously. </p>
 
 <p>You won&rsquo;t have a lot of instruction, you are free to implement it the way that you want - the objective is simple: Have a fully functional web page that looks the same as the designer file.</p>
 
