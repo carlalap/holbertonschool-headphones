@@ -2,7 +2,7 @@
 
 <h3>Description</h3>
 
-<p>In that project, I implemented a web page from scratch, without relying on any library. I used all the <strong>HTML/CSS/Accessibility/Responsive design</strong> knowledge that I had learned previously.</p>
+<p>In this project, I implemented a web page from scratch, without relying on any library. I used all the <strong>HTML/CSS/Accessibility/Responsive design</strong> knowledge that I had learned previously.</p>
 
 <p>I did not have a lot of instruction; I was free to implement it the way I wanted. The objective was simple: to have a fully functional web page that looked the same as the designer file.</p>
 
