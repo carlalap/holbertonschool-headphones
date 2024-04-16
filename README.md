@@ -2,11 +2,9 @@
 
 <h3>Description</h3>
 
-<p>In this project, you will implement from scratch, without any library, a web page. 
-You will use all <strong>HTML/CSS/Accessibility/Responsive design</strong>
- knowledges that you learned previously. </p>
+<p>In that project, I implemented a web page from scratch, without relying on any library. I used all the <strong>HTML/CSS/Accessibility/Responsive design</strong> knowledge that I had learned previously.</p>
 
-<p>You won&rsquo;t have a lot of instruction, you are free to implement it the way that you want - the objective is simple: Have a fully functional web page that looks the same as the designer file.</p>
+<p>I did not have a lot of instruction; I was free to implement it the way I wanted. The objective was simple: to have a fully functional web page that looked the same as the designer file.</p>
 
 <p>Here the final result:</p>
 
