@@ -186,9 +186,8 @@ Inside you will find demo page of how to use it.</p>
 
 ![Image 2](./images/final_result_mobile.png)
 
-And you are done!
+You are done!
 
-
-<p><strong>Good job!</strong></p>
+<p><strong>Good job Charlie!</strong></p>
 
   </div>
