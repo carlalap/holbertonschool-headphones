@@ -178,15 +178,16 @@ Inside you will find demo page of how to use it.</p>
 
 <p>When you are done, here the result:</p>
 
-<p><strong>Desktop:</strong></p>
+**Desktop:**
 
 ![Image 1](./images/final_result_headphones.png)
 
 **Mobile:**
 
-![Imagemage 2](./images/final_result_mobile.png)
+![Image 2](./images/final_result_mobile.png)
 
-<p>And you are done! </p>
+And you are done!
+
 
 <p><strong>Good job!</strong></p>
 
