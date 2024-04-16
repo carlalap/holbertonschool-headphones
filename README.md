@@ -180,11 +180,11 @@ Inside you will find demo page of how to use it.</p>
 
 <p><strong>Desktop:</strong></p>
 
-![Image 1](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/3/3b5a9f7948a58d58bd43.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20231025%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20231025T190125Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=be1310253061ee41ca389262ae3c3b86785c3441f66a6d7bb249cc7cd00491d1)
+![Image 1](./images/final_result_headphones.png)
 
 **Mobile:**
 
-![Imagemage 2](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/3/83d6311e87d4775ca4b3.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20231025%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20231025T190125Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=b7ff206e7a9ed50183d395f2811915ae5cc2186fbbb3c589ad7fa3f6bf2de568)
+![Imagemage 2](./images/final_result_mobile.png)
 
 <p>And you are done! </p>
 
